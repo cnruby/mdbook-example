@@ -2,7 +2,7 @@
 - This mdbook-example is from https://github.com/rust-lang/mdBook/tree/master/book-example.
 
 
-## install rust and mdbook
+## install rust language and mdbook
 ```
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 cargo install mdbook
