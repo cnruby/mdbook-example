@@ -1,5 +1,5 @@
 # mdbook-example
-- This mdbook-example is from https://github.com/rust-lang/mdBook/tree/master/book-example.
+- This mdbook-example comes from https://github.com/rust-lang/mdBook/tree/master/book-example.
 
 
 ## install rust language and mdbook
